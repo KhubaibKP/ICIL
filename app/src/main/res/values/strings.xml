@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">ICIL</string>
+
+    <string-array name="department">
+        <item>Developers</item>
+        <item>Sales</item>
+        <item>Designers</item>
+    </string-array>
+
+    <string-array name="designation">
+        <item>Executive</item>
+        <item>CEO</item>
+        <item>Manager</item>
+    </string-array>
+
+</resources>
